@@ -1,1 +1,7 @@
-
+numpy
+opencv-python
+torch
+pydicom
+SimpleITK
+matplotlib
+scikit-image
